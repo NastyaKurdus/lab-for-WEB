@@ -1,0 +1,120 @@
+body {
+    background-image: url(cartao-da-alfazema-da-aguarela_1268-1018.jpg);
+    text-align: center;
+    background-size: cover;
+    background-position: center;
+
+}
+
+#content {
+    margin: 0 45px 0 45px;
+    font-family: 'Monotype Corsiva', cursive;
+    font-size: 24px;
+    font-weight: bold;
+    color: #4B0082;
+    
+}
+
+#footer {
+    color: #4B0082;
+    text-align: center;
+    font-family: 'Monotype Corsiva', cursive;
+    margin-top: 120px;
+}
+.nav{text-align: center;}
+#menu {
+    list-style: none;
+    text-align: center;
+    padding: 10%;
+    padding-left: 5%;
+    font-family: 'Monotype Corsiva', cursive;
+}
+
+#menu a {
+    font-family: 'Monotype Corsiva', cursive;
+    font-size: 21px;
+    font-weight: bold;
+    padding: 9px;
+    color: #4B0082;
+   
+}
+
+#menu a:hover {
+    border-radius: 8px 5px;
+    background-color: #D8BFD8;
+}
+
+#cake1{
+    position:relative;   
+    width:210px;
+    height:220px;
+    background: url('cake1.png');
+    background-repeat: no-repeat;
+    background-size: 210px;
+    margin: 0 4em 0 5em;
+    
+}
+.block1{
+    position:absolute;
+    font-size: 18px;
+    left:0;
+    bottom:0;
+    right:0;
+    top:0;
+    background:rgba(255,255,255, 0.7);
+    padding:3px;
+    display:none;
+}
+#cake1:hover .block1{
+    display:block;
+}  
+#cake2{
+    position:relative;   
+    background: url('cake2.png');
+    background-repeat: no-repeat;
+    width:210px;
+    height:220px;
+    background-size: 210px;
+    margin: 0 3em 0 3em;
+   
+}
+.block2{
+    position:absolute;
+    font-size: 18px;
+    left:0;
+    bottom:0;
+    right:0;
+    top:0;
+    background:rgba(255,255,255, 0.7);
+    padding:3px;
+    display:none;
+}
+#cake2:hover .block2{
+    display:block;
+}  
+#cake3{
+    position:relative;   
+    width:210px;
+    height:220px;
+    background: url('cake3.png');
+    background-repeat: no-repeat;
+    background-size: 210px;
+    margin: 0 10px 0 119px;
+   
+}
+.block3{
+    position:absolute;
+    font-size: 18px;
+    left:0;
+    bottom:0;
+    right:0;
+    top:0;
+    background:rgba(255,255,255, 0.7);
+    padding:3px;
+    display:none;
+}
+#cake3:hover .block3{
+    display:block;
+}  
+
+

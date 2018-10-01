@@ -1,0 +1,72 @@
+body { background-image: url(cartao-da-alfazema-da-aguarela_1268-1018.jpg);
+       text-align: center;
+       background-size: cover;
+       background-position: center;
+	 }
+#container{width: 100%; 
+           height: 100%;
+		   margin: auto;
+		  }	
+#menu{width: 49%; 
+      float:left;
+     }
+.menu-main {list-style: none;
+            text-align:center;
+            padding: 10%;
+			size:80px;
+           }
+.menu-main li {display: inline;}	
+.menu-main a  {display: inline-block;
+			  text-decoration: none;
+			  font-family: 'Monotype Corsiva', cursive;
+			  font-size:23px;
+			  font-weight:bold;
+			  padding: 10px;
+			  color:#4B0082;
+			  position:center;
+			  }   
+.menu-main a:hover {
+                    border-radius: 8px 5px;
+                    background-color: #D8BFD8;
+}   
+   	
+#content{width: 100%; 
+         text-align:center;
+         color:#4B0082;
+		 font-size:20px;
+         font-family: 'Monotype Corsiva',cursive;
+         margin-top:50px;		 
+		}
+#content img{width:55%;
+             height:55%;
+            }
+			
+#contact{width: 49%; 
+	     float:left;
+		 color:#4B0082;
+		 font-size:18px;
+		 font-family: 'Monotype Corsiva', cursive;
+		 text-align: center;
+         padding-top: 40px;
+        }
+#down{color:#4B0082;
+	  font-size:18px;
+	  font-family: 'Monotype Corsiva', cursive;
+	  text-align: center;
+      padding-top: 40px;
+	 }	
+figure {display: inline-block; 
+        padding: 10px; 
+        margin: 0 3em 0 3em; 
+        vertical-align: top;
+        margin-bottom:50px;
+       }
+figcaption {text-align: center;}
+	
+	
+	  
+	  
+		  
+
+	
+
